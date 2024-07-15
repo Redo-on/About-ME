@@ -11,7 +11,11 @@ English (C1 Level)
 # Knolige of what programming languiges
 
 HTML5
+
 CSS
+
 JavaScrypt
+
 React
+
 NodeJS
